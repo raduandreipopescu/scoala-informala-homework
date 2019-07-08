@@ -1,1 +1,2 @@
-# scoala-informala-homework
+GIT testing
+pull and push
